@@ -1,5 +1,5 @@
 import test from 'ava';
-import MathLib from '../../../src/index';
+import MathLib from '../../src/index';
 
 test('fibonacci', t => {
   const mathLib = new MathLib();

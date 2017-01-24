@@ -1,5 +1,5 @@
 describe('MathLib', function () {
-  var MathLib = require('../../src/index.js');
+  var MathLib = require('../src/index.js');
 
   describe('add', function () {
     it('adds two numbers together', function () {
