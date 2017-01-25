@@ -1,5 +1,5 @@
 {
-  "name": "mocha-chai-ts",
+  "name": "js-unit-test-examples-mocha-chai-ts-istanbul",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "ts-node node_modules/istanbul/lib/cli.js cover -e .ts -x \"*.d.ts\" -x \"*.test.ts\" node_modules/mocha/bin/_mocha -- test/**/*.test.ts"
+    "test": "ts-node node_modules/istanbul/lib/cli.js cover -e .ts node_modules/mocha/bin/_mocha -- test/**/*.test.ts"
   },
   "author": "",
   "license": "ISC",
