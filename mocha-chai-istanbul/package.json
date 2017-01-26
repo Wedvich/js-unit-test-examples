@@ -10,7 +10,7 @@
     "test": "istanbul cover node_modules/mocha/bin/_mocha"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Unlicense",
   "devDependencies": {
     "chai": "^3.5.0",
     "istanbul": "^0.4.5",

@@ -10,7 +10,7 @@
     "test": "mocha --compilers ts:ts-node/register test/**/*.test.ts"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Unlicense",
   "devDependencies": {
     "@types/mocha": "^2.2.38",
     "@types/node": "^7.0.4",

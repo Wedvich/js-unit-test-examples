@@ -7,7 +7,7 @@
     "test": "ava"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Unlicense",
   "devDependencies": {
     "ava": "^0.17.0"
   }

@@ -7,7 +7,7 @@
     "test": "jasmine"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Unlicense",
   "devDependencies": {
     "jasmine": "^2.5.3"
   }
