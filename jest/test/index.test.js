@@ -1,4 +1,4 @@
-var MathLib = require('../src');
+const MathLib = require('../src');
 
 describe('MathLib', () => {
   describe('add', () => {
@@ -10,15 +10,15 @@ describe('MathLib', () => {
   });
 
   describe('multiply', () => {
-    it('multiply two numbers', () =>{
+    it('multiply two numbers', () => {
       const mathLib = new MathLib();
       const result = mathLib.multiply(3, 3);
       expect(result).toBe(9);
     });
   });
 
-  describe('fibonacci', () =>{
-    it('generates a valid fibonacci sequence', () =>{
+  describe('fibonacci', () => {
+    it('generates a valid fibonacci sequence', () => {
       const mathLib = new MathLib();
       const result = mathLib.fibonacci(12);
       expect(result[12]).toBe(144);

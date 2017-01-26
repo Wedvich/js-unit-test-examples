@@ -7,7 +7,7 @@ This repository contains a collection of example setups for common JavaScript un
 |[ava-nyc](https://github.com/Wedvich/js-unit-test-examples/tree/master/ava-nyc)|:heavy_check_mark:|:heavy_check_mark:||
 |[jasmine](https://github.com/Wedvich/js-unit-test-examples/tree/master/jasmine)||||
 |[jasmine-chutzpah](https://github.com/Wedvich/js-unit-test-examples/tree/master/jasmine-chutzpah)||||
-|[jest](https://github.com/Wedvich/js-unit-test-examples/tree/master/jest)||||
+|[jest](https://github.com/Wedvich/js-unit-test-examples/tree/master/jest)|:heavy_check_mark:|:heavy_check_mark:||
 |[mocha-chai](https://github.com/Wedvich/js-unit-test-examples/tree/master/mocha-chai)||||
 |[mocha-chai-istanbul](https://github.com/Wedvich/js-unit-test-examples/tree/master/mocha-chai-istanbul)|:heavy_check_mark:|||
 |[mocha-chai-ts](https://github.com/Wedvich/js-unit-test-examples/tree/master/mocha-chai-ts)||:heavy_check_mark:|:heavy_check_mark:|

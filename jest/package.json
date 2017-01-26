@@ -10,5 +10,9 @@
   "license": "Unlicense",
   "devDependencies": {
     "jest": "^18.1.0"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": ["src/**/*.js"]
   }
 }
